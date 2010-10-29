@@ -1,0 +1,209 @@
+TWordive
+v7
+r0
+t309741198.637315
+cCheck dependencies
+cProcessInfoPlistFile /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Info.plist Wordive-Info.plist
+cCompileXIB /Users/yoda/Documents/Wordive/MainWindow.xib
+cProcessPCH /var/folders/gp/gpg6BV9HHWuqDpzSsh8mOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wordive_Prefix-fvmvllunkaaavqgzogxjblcpefeb/Wordive_Prefix.pch.gch Wordive_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/main.o /Users/yoda/Documents/Wordive/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/WordiveAppDelegate.o /Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive normal i386
+cGenerateDSYMFile /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app.dSYM /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive
+cTouch /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CA225110000000000000110
+t1285694737
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C872F53000000000029B1D0
+t1283927891
+s2732496
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C872FB1000000000029D590
+t1283927985
+s2741648
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C872FA40000000000001466
+t1283927972
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C8741500000000000000AA1
+t1283932496
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C8741C10000000000735310
+t1283932609
+s7557904
+
+N/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.h
+c000000004CC60D6300000000000001B6
+t1288047971
+s438
+i<UIKit/UIKit.h>
+
+N/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m
+c000000004CC60EDC00000000000006D4
+t1288048348
+s1748
+i"WordiveAppDelegate.h"
+
+N/Users/yoda/Documents/Wordive/MainWindow.xib
+c000000004CC60BBD0000000000003E6D
+t1288047549
+s15981
+
+N/Users/yoda/Documents/Wordive/Wordive_Prefix.pch
+c000000004CC60BBD00000000000000B7
+t1288047549
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app
+t1288048398
+s204
+
+N/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app.dSYM
+t1288048398
+s102
+
+N/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Info.plist
+t1288048395
+s798
+
+N/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/MainWindow.nib
+t1288048396
+s984
+
+N/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/PkgInfo
+t1288048395
+s8
+
+N/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive
+t1288048398
+s15724
+
+N/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/Wordive.LinkFileList
+c000000004CC60F0B00000000000000F0
+t1288048395
+s240
+
+N/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/WordiveAppDelegate.o
+t1288048398
+s49844
+
+N/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/main.o
+t1288048398
+s6284
+
+N/Users/yoda/Documents/Wordive/main.m
+c000000004CC60BBE0000000000000162
+t1288047550
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/gp/gpg6BV9HHWuqDpzSsh8mOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wordive_Prefix-fvmvllunkaaavqgzogxjblcpefeb/Wordive_Prefix.pch.gch
+t1288048397
+s15445200
+
+NWordive-Info.plist
+c000000004CC60BBD00000000000004D6
+t1288047549
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309741195#309741195#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/WordiveAppDelegate.o /Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309741197.964176
+e309741198.226880
+r1
+xCompileC
+xbuild/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/WordiveAppDelegate.o
+x/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m: In function '-[WordiveAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m:24: warning: incompatible Objective-C types 'struct UINavigationController *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type
+lSLF07#2@66"Compile /Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m309741197#309741198#0(377"/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m: In function '-[WordiveAppDelegate application:didFinishLaunchingWithOptions:]':/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m:24: warning: incompatible Objective-C types 'struct UINavigationController *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type1(22@164"Incompatible Objective-C types 'struct UINavigationController *', expected 'struct UIView *' when passing argument 1 of 'addSubview:' from distinct Objective-C type309741198#140#237#0(6@58"/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m309741148#24#0#24#0#0"0(0#0#58"/Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m8613103200#1851"    cd /Users/yoda/Documents/Wordive    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-generated-files.hmap -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-own-target-headers.hmap -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-all-target-headers.hmap -iquote /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-project-headers.hmap -F/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator -I/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/include -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/DerivedSources/i386 -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/DerivedSources -include /var/folders/gp/gpg6BV9HHWuqDpzSsh8mOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wordive_Prefix-fvmvllunkaaavqgzogxjblcpefeb/Wordive_Prefix.pch -c /Users/yoda/Documents/Wordive/Classes/WordiveAppDelegate.m -o /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/WordiveAppDelegate.o0#
+
+CCompileC build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/main.o /Users/yoda/Documents/Wordive/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309741197.963025
+e309741198.220136
+r1
+xCompileC
+xbuild/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/main.o
+x/Users/yoda/Documents/Wordive/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/yoda/Documents/Wordive/main.m309741197#309741198#0(0"0(0#0#36"/Users/yoda/Documents/Wordive/main.m8613915488#1815"    cd /Users/yoda/Documents/Wordive    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-generated-files.hmap -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-own-target-headers.hmap -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-all-target-headers.hmap -iquote /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-project-headers.hmap -F/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator -I/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/include -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/DerivedSources/i386 -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/DerivedSources -include /var/folders/gp/gpg6BV9HHWuqDpzSsh8mOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wordive_Prefix-fvmvllunkaaavqgzogxjblcpefeb/Wordive_Prefix.pch -c /Users/yoda/Documents/Wordive/main.m -o /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/yoda/Documents/Wordive/MainWindow.xib
+s309741195.700855
+e309741196.322478
+r1
+xCompileXIB
+x/Users/yoda/Documents/Wordive/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309741195#309741196#0(0"0(0#0#44"/Users/yoda/Documents/Wordive/MainWindow.xib8611995424#543"    cd /Users/yoda/Documents/Wordive    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/MainWindow.nib /Users/yoda/Documents/Wordive/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app.dSYM /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive
+s309741198.525023
+e309741198.605928
+r1
+xGenerateDSYMFile
+x/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app.dSYM
+x/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Wordive.app.dSYM build/Debug-iphonesimulator/Wordive.app/Wordive309741198#309741198#0(0"0(0#0#77"/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive8602497312#356"    cd /Users/yoda/Documents/Wordive    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive -o /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app.dSYM0#
+
+CLd /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive normal i386
+s309741198.226990
+e309741198.524920
+r1
+xLd
+x/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive
+xnormal
+xi386
+lSLF07#2@82"Link /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive309741198#309741198#0(0"0(0#0#0"8613643328#855"    cd /Users/yoda/Documents/Wordive    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator -F/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator -filelist /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Objects-normal/i386/Wordive.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Wordive0#
+
+CProcessInfoPlistFile /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Info.plist Wordive-Info.plist
+s309741195.675363
+e309741195.700640
+r1
+xProcessInfoPlistFile
+x/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Info.plist
+xWordive-Info.plist
+lSLF07#2@26"Process Wordive-Info.plist309741195#309741195#0(0"0(0#0#48"/Users/yoda/Documents/Wordive/Wordive-Info.plist32651513917341812#452"    cd /Users/yoda/Documents/Wordive    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Wordive-Info.plist -genpkginfo /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app/Info.plist0#
+
+CProcessPCH /var/folders/gp/gpg6BV9HHWuqDpzSsh8mOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wordive_Prefix-fvmvllunkaaavqgzogxjblcpefeb/Wordive_Prefix.pch.gch Wordive_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309741196.324636
+e309741197.962814
+r1
+xProcessPCH
+x/var/folders/gp/gpg6BV9HHWuqDpzSsh8mOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wordive_Prefix-fvmvllunkaaavqgzogxjblcpefeb/Wordive_Prefix.pch.gch
+xWordive_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Wordive_Prefix.pch309741196#309741197#0(0"0(0#0#48"/Users/yoda/Documents/Wordive/Wordive_Prefix.pch8613645024#1716"    cd /Users/yoda/Documents/Wordive    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-generated-files.hmap -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-own-target-headers.hmap -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-all-target-headers.hmap -iquote /Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/Wordive-project-headers.hmap -F/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator -I/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/include -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/DerivedSources/i386 -I/Users/yoda/Documents/Wordive/build/Wordive.build/Debug-iphonesimulator/Wordive.build/DerivedSources -c /Users/yoda/Documents/Wordive/Wordive_Prefix.pch -o /var/folders/gp/gpg6BV9HHWuqDpzSsh8mOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wordive_Prefix-fvmvllunkaaavqgzogxjblcpefeb/Wordive_Prefix.pch.gch0#
+
+CTouch /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app
+s309741198.606026
+e309741198.637256
+r1
+xTouch
+x/Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app
+lSLF07#2@75"Touch /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app309741198#309741198#0(0"0(0#0#0"8613325696#260"    cd /Users/yoda/Documents/Wordive    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yoda/Documents/Wordive/build/Debug-iphonesimulator/Wordive.app0#
+
